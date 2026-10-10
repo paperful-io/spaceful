@@ -1,0 +1,62 @@
+/* Theme */
+@theme inline {
+  --font-sans: "General Sans", "sans-serif";
+  --font-display: "chillax", "sans-serif";
+
+  --color-transparent: transparent;
+  --color-current: currentColor;
+  --color-white: #fff;
+
+  --color-light: var(--color-light);
+  --color-backdrop: var(--color-backdrop);
+
+  --color-primary: var(--color-primary);
+  --color-primary-light: var(--color-primary-light);
+  --color-primary-lightest: var(--color-primary-lightest);
+  --color-primary-dark: var(--color-primary-dark);
+  --color-primary-foreground: var(--color-primary-foreground);
+  --color-primary-ring: var(--color-primary-ring);
+
+  --color-secondary: var(--color-secondary);
+  --color-secondary-light: var(--color-secondary-light);
+  --color-secondary-dark: var(--color-secondary-dark);
+  --color-secondary-foreground: var(--color-secondary-foreground);
+  --color-secondary-ring: var(--color-secondary-ring);
+
+  --color-blue: var(--color-blue);
+  --color-blue-light: var(--color-blue-light);
+  --color-blue-dark: var(--color-blue-dark);
+  --color-blue-ring: var(--color-blue-ring);
+
+  --color-purple: var(--color-purple);
+  --color-purple-light: var(--color-purple-light);
+  --color-purple-dark: var(--color-purple-dark);
+  --color-purple-ring: var(--color-purple-ring);
+
+  --color-orange: var(--color-orange);
+  --color-orange-light: var(--color-orange-light);
+  --color-orange-dark: var(--color-orange-dark);
+  --color-orange-ring: var(--color-orange-ring);
+
+  --color-red: var(--color-red);
+  --color-red-light: var(--color-red-light);
+  --color-red-dark: var(--color-red-dark);
+  --color-red-ring: var(--color-red-ring);
+
+  --color-green: var(--color-green);
+  --color-green-light: var(--color-green-light);
+  --color-green-dark: var(--color-green-dark);
+  --color-green-ring: var(--color-green-ring);
+
+  --color-shade-50: var(--color-shade-50);
+  --color-shade-100: var(--color-shade-100);
+  --color-shade-200: var(--color-shade-200);
+  --color-shade-300: var(--color-shade-300);
+  --color-shade-400: var(--color-shade-400);
+  --color-shade-500: var(--color-shade-500);
+  --color-shade-600: var(--color-shade-600);
+  --color-shade-700: var(--color-shade-700);
+  --color-shade-800: var(--color-shade-800);
+  --color-shade-900: var(--color-shade-900);
+  --color-shade-950: var(--color-shade-950);
+}

@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "General Sans";
+  src:
+    url("../assets/fonts/general-sans/GeneralSans-Medium.woff2") format("woff2"),
+    url("../assets/fonts/general-sans/GeneralSans-Medium.woff") format("woff"),
+    url("../assets/fonts/general-sans/GeneralSans-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "General Sans";
+  src:
+    url("../assets/fonts/general-sans/GeneralSans-Semibold.woff2")
+      format("woff2"),
+    url("../assets/fonts/general-sans/GeneralSans-Semibold.woff") format("woff"),
+    url("../assets/fonts/general-sans/GeneralSans-Semibold.ttf")
+      format("truetype");
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "General Sans";
+  src:
+    url("../assets/fonts/general-sans/GeneralSans-Bold.woff2") format("woff2"),
+    url("../assets/fonts/general-sans/GeneralSans-Bold.woff") format("woff"),
+    url("../assets/fonts/general-sans/GeneralSans-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Chillax";
+  src:
+    url("../assets/fonts/chillax/Chillax-Medium.woff2") format("woff2"),
+    url("../assets/fonts/chillax/Chillax-Medium.woff") format("woff"),
+    url("../assets/fonts/chillax/Chillax-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Chillax";
+  src:
+    url("../assets/fonts/chillax/Chillax-Semibold.woff2") format("woff2"),
+    url("../assets/fonts/chillax/Chillax-Semibold.woff") format("woff"),
+    url("../assets/fonts/chillax/Chillax-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
