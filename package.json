@@ -1,6 +1,13 @@
 {
   "name": "spaceful",
   "description": "Delightful, lightweight 2D geometry and spatial indexing",
+  "keywords": [
+    "geometry",
+    "spatial-index",
+    "spatial",
+    "polygon",
+    "rtree"
+  ],
   "version": "1.0.2",
   "type": "module",
   "main": "./dist/index.cjs",
